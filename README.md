@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Emircan.</h1>
 <h3 align="center">İstanbul'da bilgisayar mühendisliği son sınıf öğrencisi bir yazılım geliştiriciyim.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emircandemirtr" alt="emircandemirtr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emircandemirtr" target="blank"><img src="https://img.shields.io/twitter/follow/emircandemirtr?logo=twitter&style=for-the-badge" alt="emircandemirtr" /></a> </p>
 

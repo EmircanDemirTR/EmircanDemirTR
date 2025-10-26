@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Emircan.</h1>
+<h1 align="center">Merhaba, ben Emircan. 👋</h1>
 <h3 align="center">Bilgisayar mühendisi ve yazılım geliştiriciyim.</h3>
 
 

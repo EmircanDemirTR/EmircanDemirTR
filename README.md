@@ -44,13 +44,6 @@ Yapay zeka, yazılım geliştirme ve gömülü sistemler alanlarında 3+ yıl de
 - **BTK Akademi** — [MATLAB ile Makine Öğrenmesi Algoritmaları](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868)
 - **Deneyap Teknoloji** — Yazılım, Robotik, IoT, Yapay Zeka
 
-## İstatistikler
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmircanDemirTR&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmircanDemirTR&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 ## İletişim
 
 [![Website](https://img.shields.io/badge/Website-emircandemir.com-000?style=flat&logo=googlechrome&logoColor=white)](https://emircandemir.com)

@@ -2,7 +2,7 @@
 
 **Bilgisayar Mühendisi | AI Developer | Eğitmen**
 
-Yapay zeka, yazılım geliştirme ve gömülü sistemler alanlarında 3+ yıl deneyime sahip, 82+ proje geliştirmiş bir mühendisim. Deneyap Teknoloji Atölyeleri'nde eğitmen ve BTK Akademi'de online eğitmen olarak çalışıyorum.
+Yapay zeka, yazılım geliştirme ve gömülü sistemler alanlarında 3+ yıl deneyime sahip, yüzden proje geliştirmiş bir mühendisim. Deneyap Teknoloji Atölyeleri'nde eğitmen ve BTK Akademi'de online eğitmen olarak çalışıyorum.
 
 ## Uzmanlık Alanları
 

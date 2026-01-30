@@ -63,10 +63,9 @@ I'm a software engineer with 3+ years of experience in artificial intelligence, 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [JAVA-ile-Makine-Ogrenmesi-Algoritmalari](https://github.com/EmircanDemirTR/JAVA-ile-Makine-Ogrenmesi-Algoritmalari) | ML algorithms from scratch -- KNN, Naive Bayes, Decision Tree, SVM, Random Forest | Java, SMILE, Weka |
-| [Yemek-Tarifi-RAG-LLM](https://github.com/EmircanDemirTR/Yemek-Tarifi-RAG-LLM) | RAG-powered recipe assistant using LLM | Python, LangChain |
-| [Sosyal-Ag-Analizi-Uygulamasi](https://github.com/EmircanDemirTR/Sosyal-Ag-Analizi-Uygulamasi) | Social network analysis with graph algorithms and visualization | Python, PyQt6 |
-| [Turkiye-Illerinin-SosyoEkonomik-Gelismislik-Duzeyine-Gore-Siniflandirilmasi](https://github.com/EmircanDemirTR/Turkiye-Illerinin-SosyoEkonomik-Gelismislik-Duzeyine-Gore-Siniflandirilmasi) | Clustering Turkey's provinces by socio-economic development | Python, K-Means |
-| [DroneFiloOptimizasyonu](https://github.com/EmircanDemirTR/DroneFiloOptimizasyonu) | Dynamic drone fleet delivery optimization | Python |
+| [recipe-rag-llm](https://github.com/EmircanDemirTR/recipe-rag-llm) | RAG-powered recipe assistant using LLM | Python, LangChain |
+| [social-network-analyzer](https://github.com/EmircanDemirTR/social-network-analyzer) | Social network analysis with graph algorithms and visualization | Python, PyQt6 |
+| [turkey-socioeconomic-clustering](https://github.com/EmircanDemirTR/turkey-socioeconomic-clustering) | Clustering Turkey's provinces by socio-economic development | Python, K-Means |
 | [MATLAB-ile-Makine-Ogrenmesi-Algoritmalari](https://github.com/EmircanDemirTR/MATLAB-ile-Makine-Ogrenmesi-Algoritmalari) | BTK Academy ML course materials | MATLAB |
 
 ---

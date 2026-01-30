@@ -143,12 +143,21 @@ BTK Academy, Deneyap Workshops<br/>
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EmircanDemirTR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmircanDemirTR&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmircanDemirTR&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmircanDemirTR&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EmircanDemirTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmircanDemirTR&theme=tokyonight" alt="Most Commit Language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmircanDemirTR&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmircanDemirTR&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmircanDemirTR&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---

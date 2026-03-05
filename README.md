@@ -30,6 +30,27 @@ Yazılım, yapay zeka ve gömülü sistemler üzerine 3+ yıl deneyime sahip bir
 
 ---
 
+## Eğitimler / Courses
+
+<!-- EGITIM-HUB-START -->
+### BTK Akademi Eğitimleri
+
+- [MATLAB ile Makine Öğrenmesi Algoritmaları](https://github.com/EmircanDemirTR/MATLAB-ile-Makine-Ogrenmesi-Algoritmalari) — [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868)
+- [JAVA ile Makine Öğrenmesi Algoritmaları](https://github.com/EmircanDemirTR/JAVA-ile-Makine-Ogrenmesi-Algoritmalari) — Bağlantı yakında
+
+### Udemy Eğitimleri
+
+- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — Bağlantı yakında
+
+| Eğitim | Platform | Durum |
+|---|---|---|
+| MATLAB ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Yayında |
+| JAVA ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Hazırlanıyor |
+| JAVA ile Yapay Zeka Mühendisliği | Udemy | Hazırlanıyor |
+<!-- EGITIM-HUB-END -->
+
+---
+
 ## Experience / Deneyim
 
 | Role | Organization | Period |

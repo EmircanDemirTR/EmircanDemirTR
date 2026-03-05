@@ -40,13 +40,13 @@ Yazılım, yapay zeka ve gömülü sistemler üzerine 3+ yıl deneyime sahip bir
 
 ### Udemy Eğitimleri
 
-- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — Bağlantı yakında
+- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — [Udemy eğitim linki](https://www.udemy.com/course/Java-ile-Yapay-Zeka-Muhendisligi/)
 
 | Eğitim | Platform | Durum |
 |---|---|---|
 | MATLAB ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Yayında |
 | JAVA ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Hazırlanıyor |
-| JAVA ile Yapay Zeka Mühendisliği | Udemy | Hazırlanıyor |
+| JAVA ile Yapay Zeka Mühendisliği | Udemy | Yayında |
 <!-- EGITIM-HUB-END -->
 
 ---

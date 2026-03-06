@@ -40,7 +40,9 @@ Yazılım, yapay zeka ve gömülü sistemler üzerine 3+ yıl deneyime sahip bir
 
 ### Udemy Eğitimleri
 
-- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — [Udemy eğitim linki](https://www.udemy.com/course/Java-ile-Yapay-Zeka-Muhendisligi/)
+> Spring AI, RAG, LLM ve MCP uygulamalarına odaklanan yeni Udemy eğitimim yayında.
+
+- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — [Kurs sayfası](https://www.udemy.com/course/java-ile-yapay-zeka-muhendisligi/) | [İndirimli kayıt linki (`JAVAYAPAYZEKA`)](https://www.udemy.com/course/java-ile-yapay-zeka-muhendisligi/?couponCode=JAVAYAPAYZEKA)
 
 | Eğitim | Platform | Durum |
 |---|---|---|

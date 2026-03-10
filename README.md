@@ -1,192 +1,121 @@
 <div align="center">
 
-<img src="https://emircandemir.com/assets/images/me.jpg" width="150" alt="Emircan Demir" style="border-radius:50%" />
+  <img src="https://emircandemir.com/assets/images/me.jpg" width="150" alt="Emircan Demir" style="border-radius:50%; border: 3px solid #2F80ED; margin-bottom: 15px;" />
 
-# Emircan Demir
+  # Emircan Demir
+  
+  **Computer Engineer | AI Developer | Tech Instructor** 
+  
+  <br />
 
-**Computer Engineer & AI Developer** | Istanbul, Turkey
-
-[![Website](https://img.shields.io/badge/emircandemir.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emircandemir.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emircandemir)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emircandemirtr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emircandemirtr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iletisim@emircandemir.com)
+  [Website](https://emircandemir.com) &nbsp;&bull;&nbsp; [Email](mailto:iletisim@emircandemir.com)
 
 </div>
 
----
+<hr />
 
-## About Me
+## Hakkımda | About Me
 
-Software engineer with 3+ years of experience in **artificial intelligence, full-stack development, and embedded systems**. I build AI-powered applications, teach programming at national platforms, and love turning ideas into production-ready software.
-
-Taught hundreds of students at **Deneyap Technology Workshops** in software, robotics, and AI. My **BTK Academy** course "MATLAB ile Makine Ogrenmesi" has reached thousands of enrollments. Teaching is the best way to learn.
-
-## Hakkımda
-
-Yazılım, yapay zeka ve gömülü sistemler üzerine 3+ yıl deneyime sahip bir bilgisayar mühendisiyim. AI destekli uygulamalar geliştiriyor, ulusal platformlarda programlama eğitimleri veriyor ve fikirleri üretime hazır yazılımlara dönüştürmeyi seviyorum.
-
-**Deneyap Teknoloji Atölyeleri**'nde yüzlerce gence yazılım, robotik ve yapay zeka eğitimleri verdim. **BTK Akademi**'deki "Matlab ile Makine Öğrenmesi" kursuma binlerce kişi katıldı. Öğretmek, öğrenmenin en güzel yolu.
-
----
-
-## Eğitimler / Courses
-
-<!-- EGITIM-HUB-START -->
-### BTK Akademi Eğitimleri
-
-- [MATLAB ile Makine Öğrenmesi Algoritmaları](https://github.com/EmircanDemirTR/MATLAB-ile-Makine-Ogrenmesi-Algoritmalari) — [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868)
-- [JAVA ile Makine Öğrenmesi Algoritmaları](https://github.com/EmircanDemirTR/JAVA-ile-Makine-Ogrenmesi-Algoritmalari) — Bağlantı yakında
-
-### Udemy Eğitimleri
-
-> Spring AI, RAG, LLM ve MCP uygulamalarına odaklanan yeni Udemy eğitimim yayında.
-
-- [JAVA ile Yapay Zeka Mühendisliği](https://github.com/EmircanDemirTR/JAVA-ile-Yapay-Zeka-Muhendisligi) — [Kurs sayfası](https://www.udemy.com/course/java-ile-yapay-zeka-muhendisligi/) | [İndirimli kayıt linki (`JAVAYAPAYZEKA`)](https://www.udemy.com/course/java-ile-yapay-zeka-muhendisligi/?couponCode=JAVAYAPAYZEKA)
-
-| Eğitim | Platform | Durum |
-|---|---|---|
-| MATLAB ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Yayında |
-| JAVA ile Makine Öğrenmesi Algoritmaları | BTK Akademi | Hazırlanıyor |
-| JAVA ile Yapay Zeka Mühendisliği | Udemy | Yayında |
-<!-- EGITIM-HUB-END -->
-
----
-
-## Experience / Deneyim
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| **Instructor** | [BTK Academy](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868) | Ongoing |
-| **Instructor & Mentor** | [Deneyap Technology Workshops](https://deneyap.org) | 2023 -- 2026 |
-| **IT Intern** | Acibadem Healthcare Group | 2023 -- 2024 |
-
-**Deneyap Courses:** Software Technologies, Electronic Programming & IoT, Robotics & Coding, Design & Manufacturing, AI, Advanced Robotics, Teams Mentor
-
----
-
-## Expertise / Uzmanlik
-
-<table>
-<tr>
-<td align="center" width="25%">
-<b>AI & Machine Learning</b><br/>
-LLM, RAG, Fine-tuning, Computer Vision, NLP<br/>
-<sub>16 Projects</sub>
-</td>
-<td align="center" width="25%">
-<b>Software Development</b><br/>
-Web, Desktop & Mobile Applications<br/>
-<sub>42 Projects</sub>
-</td>
-<td align="center" width="25%">
-<b>Embedded Systems & IoT</b><br/>
-Arduino, ESP32, STM32<br/>
-<sub>24 Projects</sub>
-</td>
-<td align="center" width="25%">
-<b>Education & Mentoring</b><br/>
-BTK Academy, Deneyap Workshops<br/>
-<sub>7+ Courses</sub>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>Türkçe</b><br/>
+      Yapay zeka, web teknolojileri ve gömülü sistemler üzerine 3+ yıl deneyime sahip bir Bilgisayar Mühendisiyim. AI destekli uygulamalar geliştiriyor, ulusal platformlarda programlama eğitimleri veriyor ve fikirleri üretime hazır yazılımlara dönüştürmeyi seviyorum.
+      <br/><br/>
+      <b>Deneyap Teknoloji Atölyeleri</b>'nde yüzlerce gence eğitimler verdim. <b>BTK Akademi ve Udemy</b>'deki kurslarıma binlerce kişi katıldı.
+    </td>
+    <td width="50%">
+      <b>English</b><br/>
+      I am a Software Engineer with over 3 years of experience specializing in <b>Artificial Intelligence, Full-Stack Development, and Embedded Systems</b>. I have a passion for building AI-powered applications, mentoring future developers, and turning innovative ideas into production-ready software.
+      <br/><br/>
+      I have taught hundreds of students at <b>Deneyap Technology Workshops</b> and my courses on <b>BTK Academy & Udemy</b> have reached thousands of enrollments.
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Live Projects / Canli Projeler
+## Teknoloji Yığını | Tech Stack
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **DigiMenu** | Digital QR menu platform for restaurants | [digimenu.emircandemir.com](https://digimenu.emircandemir.com) |
-| **Diyet Platformu** | Nutrition tracking platform for dietitians | [diyet.emircandemir.com](https://diyet.emircandemir.com) |
-| **MultiTV** | Watch multiple news channels simultaneously | [multitv.emircandemir.com](https://multitv.emircandemir.com) |
+- **Yapay Zeka / AI & Machine Learning:** Python, TensorFlow, Spring AI, LangChain, scikit-learn
+- **Web Geliştirme / Backend & Frontend:** Java, Node.js, Spring Boot, PHP, React, Next.js, TypeScript, Tailwind CSS
+- **Sistem & Gömülü / DevOps & Embedded:** Docker, Kubernetes, Linux, Arduino, Raspberry Pi
 
 ---
 
-## Featured Repos / One Cikan Repolar
+## Öne Çıkan Projeler | Featured Projects
 
-| Repo | Description | Tech |
-|------|-------------|------|
-| [JAVA-ile-Makine-Ogrenmesi-Algoritmalari](https://github.com/EmircanDemirTR/JAVA-ile-Makine-Ogrenmesi-Algoritmalari) | ML algorithms from scratch -- KNN, Naive Bayes, Decision Tree, SVM, Random Forest | Java |
-| [recipe-rag-llm](https://github.com/EmircanDemirTR/recipe-rag-llm) | RAG-powered recipe assistant with 20K+ Turkish recipes | Python, LangChain, Qdrant |
-| [social-network-analyzer](https://github.com/EmircanDemirTR/social-network-analyzer) | Graph-based social network analysis with 7 algorithms | Python, PyQt6 |
-| [turkey-socioeconomic-clustering](https://github.com/EmircanDemirTR/turkey-socioeconomic-clustering) | Clustering Turkey's 81 provinces by socio-economic indicators | Python, K-Means |
-| [MATLAB-ile-Makine-Ogrenmesi-Algoritmalari](https://github.com/EmircanDemirTR/MATLAB-ile-Makine-Ogrenmesi-Algoritmalari) | BTK Academy ML course materials | MATLAB |
+### Canlı Projeler | Live Projects
 
----
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%" align="left">Proje | Project</th>
+      <th width="50%" align="left">Açıklama | Description</th>
+      <th width="20%" align="left">Bağlantı | Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>DigiMenu</b></td>
+      <td>Restoranlar için SaaS dijital QR menü platformu<br/><i>SaaS digital QR menu platform for restaurants</i></td>
+      <td><a href="https://digimenu.emircandemir.com">digimenu.emircandemir.com</a></td>
+    </tr>
+    <tr>
+      <td><b>Diyet Platformu</b></td>
+      <td>Diyetisyenler için profesyonel beslenme takip sistemi<br/><i>Professional nutrition tracking for dietitians</i></td>
+      <td><a href="https://diyet.emircandemir.com">diyet.emircandemir.com</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Tech Stack / Teknoloji Yigini
+### Açık Kaynak | Open Source
 
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Web & Backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Embedded & IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%" align="left">Proje | Project</th>
+      <th width="50%" align="left">Açıklama | Description</th>
+      <th width="20%" align="left">Teknoloji | Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/EmircanDemirTR/JAVA-ile-Makine-Ogrenmesi-Algoritmalari">JAVA ile Makine Öğrenmesi</a></b></td>
+      <td>Sıfırdan makine öğrenmesi algoritmaları<br/><i>ML algorithms from scratch</i></td>
+      <td><code>Java</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/EmircanDemirTR/recipe-rag-llm">Recipe RAG LLM</a></b></td>
+      <td>RAG destekli yemek tarifi asistanı (20B+ tarif)<br/><i>RAG-powered recipe assistant (20K+ recipes)</i></td>
+      <td><code>Python</code>, <code>LangChain</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/EmircanDemirTR/social-network-analyzer">Social Network Analyzer</a></b></td>
+      <td>Graf tabanlı sosyal ağ analizi<br/><i>Graph-based social network analysis</i></td>
+      <td><code>Python</code>, <code>PyQt6</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## GitHub Stats
+## Eğitimlerim | Courses & Teaching
 
-<p align="center">
+- **[MATLAB ile Makine Öğrenmesi Algoritmaları](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868)** — BTK Akademi
+- **[JAVA ile Yapay Zeka Mühendisliği](https://www.udemy.com/course/java-ile-yapay-zeka-muhendisligi/)** — Udemy
+
+---
+
+## GitHub İstatistikleri | GitHub Stats
+
+<div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmircanDemirTR&theme=tokyonight" alt="GitHub Stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmircanDemirTR&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmircanDemirTR&theme=tokyonight" alt="Profile Details" />
-</p>
+<br>
 
----
-
-## Education / Egitim
-
-| Degree | University | Field |
-|--------|-----------|-------|
-| **B.Sc.** | Kocaeli University | Information Systems Engineering |
-| **A.Sc.** | Marmara University | Computer Programming |
-
----
-
-## Courses & Teaching / Egitimler
-
-- **BTK Academy** -- [MATLAB ile Makine Ogrenmesi Algoritmalari](https://www.btkakademi.gov.tr/portal/course/matlab-ile-makine-ogrenmesi-algoritmalari-58868) (thousands of enrollments)
-- **Deneyap Technology** -- Software, Robotics, IoT, AI, Advanced Robotics (2023 -- 2026)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EmircanDemirTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
